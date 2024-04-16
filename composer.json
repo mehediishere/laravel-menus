@@ -20,9 +20,8 @@
     }
   ],
   "require": {
-    "php": "^8.1",
     "illuminate/config": "^10.0",
-    "illuminate/view": "^8",
+    "illuminate/view": "^9.0",
     "illuminate/support": "^9.21|^10.0",
     "laravelcollective/html": "v6.4.1"
   },
